@@ -21,6 +21,6 @@ Se han insertado 10 registros de muestra en la tabla "Oradores" para ilustrar su
 
 ## Respaldo de la Base de Datos
 
-También se proporciona un archivo de respaldo ("backup.rar") que contiene la estructura de la tabla y los datos de muestra. Puedes utilizar este archivo para restaurar la base de datos en tu entorno MySQL. (Se necesita descomprimir el archivo winrar)
+También se proporciona un archivo de respaldo ("Oradores.rar") que contiene la estructura de la tabla y los datos de muestra. Puedes utilizar este archivo para restaurar la base de datos en tu entorno MySQL. (Se necesita descomprimir el archivo winrar)
 
 
